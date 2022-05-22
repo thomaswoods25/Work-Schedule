@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1;
   }
   
@@ -10,7 +10,7 @@ body {
     resize: none;
     color: #000000;
     border-left: 1px solid black;
-    padding: 10px;
+    padding: 20px;
   }
   
   .jumbotron {
@@ -18,7 +18,7 @@ body {
     background-color: transparent;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 20px solid black;
   }
   
   .description {
@@ -27,12 +27,12 @@ body {
   
   .time-block {
     text-align: center;
-    border-radius: 15px;
+    border-radius: 20px;
   }
   
   .row {
     white-space: pre-wrap;
-    height: 80px;
+    height: 100px;
     border-top: 1px solid white;
   }
   
@@ -48,20 +48,20 @@ body {
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #efe703;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #00a2ff;
     color: white;
   }
   
   .saveBtn {
     border-left: 1px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #00c825;
     color: white;
   }
   
@@ -73,7 +73,7 @@ body {
   .notification {
     display: none;
     padding-bottom: 10px;
-    color: black;
+    color: rgb(219, 0, 0);
   }
   
   .show {
